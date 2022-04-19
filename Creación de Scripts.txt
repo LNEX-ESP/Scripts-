@@ -1,0 +1,5 @@
+Todos los scripts de LINUX comienzan con la linea:
+#!/bin/bash
+
+Lo comentarios se ponen en el fichero utilizando el caractar almoadilla # 
+# esto es un comentario dentro del script 
